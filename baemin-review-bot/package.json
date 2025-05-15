@@ -1,0 +1,19 @@
+{
+  "name": "baemin-review-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/genai": "^0.14.0",
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "puppeteer": "^24.8.2"
+  }
+}
