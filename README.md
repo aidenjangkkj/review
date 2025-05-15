@@ -45,8 +45,10 @@ Baemin(배달의 민족) 셀프 서비스 리뷰 페이지에서 고객 리뷰�
    프로젝트 루트에 `.env` 파일을 만들고 다음 값을 입력하세요:
 
    ```ini
-   BAEMIN_ID=your_baemin_username
-   BAEMIN_PW=your_baemin_password
+   BAEMIN_ID=배민 ID
+   BAEMIN_PW=배민 PW
+   BAEMIN_PAGE=리뷰 페이지 URL
+   BAEMIN_STORE_NAME=가게 이름
    GEMINI_API_KEY=your_google_gemini_api_key
    ```
 
